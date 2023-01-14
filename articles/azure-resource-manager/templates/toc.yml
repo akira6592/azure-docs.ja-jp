@@ -301,7 +301,7 @@
       href: deployment-modes.md
     - name: デプロイ履歴の削除
       href: deployment-history-deletions.md
-    - name: デプロイ完了モードの削除
+    - name: デプロイ完全モードの削除
       href: deployment-complete-mode-deletion.md
 - name: 方法
   items:
